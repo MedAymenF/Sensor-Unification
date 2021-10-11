@@ -1,0 +1,5 @@
+float32[3] sensor_position
+float32[3] sensor_orientation
+float32[3] relative_coordinates
+---
+float32[3] absolute_coordinates
